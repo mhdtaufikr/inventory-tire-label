@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Inventory Tire Label",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

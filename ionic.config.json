@@ -1,0 +1,8 @@
+{
+  "name": "Inventory Tire Label",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "81c3126d"
+}
